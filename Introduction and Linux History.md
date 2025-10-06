@@ -7,7 +7,7 @@
 **اللينكس** (Linux) هي **"الابن المتمرد"** اللي اتولد من **"التمرد"** على يونكس! في **1991**، طالب فنلندي اسمه **لينوس تورفالدس** (Linus Torvalds) قال: **"يا جماعة، يونكس غالية ومغلقة، يلا نعمل نظام مفتوح!"** وطور **"نواة"** (kernel) جديدة مستوحاة من يونكس، لكن **"مفتوحة المصدر"** (open-source). وده كان **"بداية ثورة"** في عالم التكنولوجيا!
 
 
-<img width="1016" height="535" alt="image" src="https://github.com/user-attachments/assets/f578e8d1-c847-4ea2-897d-caa7b4d925e6" />
+<img width="1397" height="756" alt="image" src="https://github.com/user-attachments/assets/075170a4-271c-4e5b-86e6-13d4b84a02b7" />
 
 ---
 
