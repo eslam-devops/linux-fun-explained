@@ -26,6 +26,8 @@
   - **ديبيان** → للاستقرار.
 
 <img width="597" height="324" alt="image" src="https://github.com/user-attachments/assets/586accea-6202-453b-8a81-542a9b1ff35c" />
+<img width="1011" height="544" alt="image" src="https://github.com/user-attachments/assets/922e11f1-17ba-4d6c-b685-a9edd73f2a5a" />
+
 
 ---
 
