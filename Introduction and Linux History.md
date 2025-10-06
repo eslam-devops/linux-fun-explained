@@ -25,6 +25,8 @@
   - **ريد هات / سنتوس** → للسيرفرات.
   - **ديبيان** → للاستقرار.
 
+<img width="597" height="324" alt="image" src="https://github.com/user-attachments/assets/586accea-6202-453b-8a81-542a9b1ff35c" />
+
 ---
 
 ### **4. مقارنة 🔄**
